@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Account_Number: MyString
+  IFSC: MyString
+  Balance: 1
+
+two:
+  Account_Number: MyString
+  IFSC: MyString
+  Balance: 1
